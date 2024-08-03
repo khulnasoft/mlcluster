@@ -857,4 +857,4 @@ Each created error class inherits from our base class [MlclusterError](./docs/ex
 
 ---
 
-Licensed **Apache 2.0**. Created and maintained with ❤️ by developers from SAP in Berlin.
+Licensed **Apache 2.0**. Created and maintained with ❤️ by developers from KhulnaSoft Ltd.
