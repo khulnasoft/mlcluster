@@ -6,6 +6,7 @@ executed either standalone or by passing it over to a `Runtime` instance. Passwo
 hosts that should act as a `Runtime` to be able to conveniently manage those entities.
 
 """
+
 import atexit
 import logging
 import os
@@ -893,9 +894,7 @@ class Runtime(object):
         # All attributes that need to be present before executing the valid Runtime check must be put here !!!!!
         self._host = host
         self._connection_kwargs = connection_kwargs
-        self._env_variables: Dict[
-            str, str
-        ] = (
+        self._env_variables: Dict[str, str] = (
             {}
         )  # Will be passed on to fabric connect, so that they are available on the remote host
 
@@ -910,9 +909,7 @@ class Runtime(object):
         if working_dir:
             self.working_dir = working_dir  # raises PathCreationError
 
-        self._processes: Dict[
-            str, Process
-        ] = (
+        self._processes: Dict[str, Process] = (
             {}
         )  # The dict key is a generated process identifier and the value contains the process
         self._info: Dict[str, Union[str, List[str]]] = {}
@@ -1083,9 +1080,7 @@ class Runtime(object):
         if not self._info:
             self._info = self._read_info()
         if not isinstance(self._info["python_version"], str):
-            raise MlclusterError(
-                "Runtime._info['python_version'] must be of type str"
-            )
+            raise MlclusterError("Runtime._info['python_version'] must be of type str")
         return self._info["python_version"]
 
     @property

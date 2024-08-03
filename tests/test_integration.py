@@ -16,7 +16,7 @@ from .config import RUNTIME_DOCKER_IMAGE, RUNTIME_NAMES, WORKSPACE_PORT
 
 
 def setup_module(module: ModuleType) -> None:
-    """ setup any state specific to the execution of the given module."""
+    """setup any state specific to the execution of the given module."""
     docker_client = docker.from_env()
 
     for runtime_name in RUNTIME_NAMES:
