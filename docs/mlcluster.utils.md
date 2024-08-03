@@ -202,4 +202,4 @@ Fixed length representation w/o delimiters in format: yyyymmddhhmmss.
 
 ---
 
-_This file was automatically generated via [lazydocs](https://github.com/khulnasoft/lazydocs)._
+_This file was automatically generated via [docsml](https://github.com/khulnasoft/docsml)._

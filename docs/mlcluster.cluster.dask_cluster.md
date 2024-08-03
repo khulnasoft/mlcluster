@@ -291,4 +291,4 @@ Get a connected Dask client.
 
 ---
 
-_This file was automatically generated via [lazydocs](https://github.com/khulnasoft/lazydocs)._
+_This file was automatically generated via [docsml](https://github.com/khulnasoft/docsml)._

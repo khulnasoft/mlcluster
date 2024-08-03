@@ -73,7 +73,7 @@ setup(
             "black",
             "pydocstyle",
             "isort",
-            "lazydocs",
+            "docsml",
             "distributed",  # Dask distributed
             "hyperopt",
             "docker",

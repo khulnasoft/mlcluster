@@ -2,6 +2,7 @@
 
 Note: The design of the launcher classes follows the strategy pattern.
 """
+
 import atexit
 import logging
 from subprocess import Popen
@@ -108,9 +109,9 @@ class WorkerLauncher(object):
         self.log = logging.getLogger(__name__)
 
         self._group = runtime_group
-        self._ports_per_host: Dict[
-            str, List[int]
-        ] = {}  # Needs to be set in `self.start()`
+        self._ports_per_host: Dict[str, List[int]] = (
+            {}
+        )  # Needs to be set in `self.start()`
 
         self.log.debug("Worker launcher initialized")
 
