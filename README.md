@@ -5,7 +5,6 @@
 
 <p align="center">
     <strong>Distributed machine learning made simple.</strong><br/>
-    Use your preferred distributed ML framework like a <a href="https://youtu.be/UXSSJENiZiw">lazy engineer</a>.
 </p>
 
 <p align="center">
