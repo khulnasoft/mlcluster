@@ -1,5 +1,5 @@
 <h1 align="center">
-    🎛 mlcluster
+    🎛 ML CLuster
     <br>
 </h1>
 
