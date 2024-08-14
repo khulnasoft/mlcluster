@@ -1,10 +1,10 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: mlcluster
-Upstream-Contact: Lukas Masuch <lukas.masuch@gmail.com>
-                  Benjamin Raethlein <benjamin.raethlein@gmail.com>
-                  KhulnaSoft DevOps <kalkan.jan@gmail.com>
+Upstream-Contact: KhulnaSoft DevOps <support@khulnasoft.com>
+                  Md Mamun <iconmamundentist@gmail.com>
+                  KhulnaSoft DevOps <info@khulnasoft.com>
 Source: https://github.com/khulnasoft/mlcluster
 
 Files: **
-Copyright: Lukas Masuch, Benjamin Raehtlein, and KhulnaSoft DevOps
+Copyright: KhulnaSoft DevOps, KhulnaSoft Lab, and KhulnaSoft DevOps
 License: Apache-2.0
