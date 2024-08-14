@@ -77,6 +77,7 @@ setup(
             "distributed",  # Dask distributed
             "hyperopt",
             "docker",
+            "ml-buildkit",
         ],
     },
     classifiers=[

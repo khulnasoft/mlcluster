@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 this-package = {editable = true, path = "."}
+twine = "*"
 
 [dev-packages]
 this-package = {editable = true, extras = ["dev"], path = "."}
