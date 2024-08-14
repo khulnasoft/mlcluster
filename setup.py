@@ -73,7 +73,7 @@ setup(
             "black",
             "pydocstyle",
             "isort",
-            "docsml @ git+https://github.com/khulnasoft/docsml.git",
+            "docsai",
             "distributed",  # Dask distributed
             "hyperopt",
             "docker",

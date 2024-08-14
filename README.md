@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/khulnasoft/mlcluster/blob/master/LICENSE" title="ML Hub License"><img src="https://img.shields.io/badge/License-Apache%202.0-green.svg"></a>
+    <a href="https://github.com/khulnasoft/mlcluster/blob/master/LICENSE" title="ML Recipes License"><img src="https://img.shields.io/badge/License-Apache%202.0-green.svg"></a>
     <a href="https://gitter.im/khulnasoft/mlcluster" title="Chat on Gitter"><img src="https://badges.gitter.im/khulnasoft/mlcluster.svg"></a>
     <a href="https://twitter.com/khulnasoft" title="KhulnaSoft on Twitter"><img src="https://img.shields.io/twitter/follow/khulnasoft.svg?style=social"></a>
     <a href="3" title="Mlcluster Test Pipeline"><img src="https://github.com/khulnasoft/mlcluster/workflows/build-pipeline/badge.svg"></a>
@@ -172,7 +172,7 @@ valuable if it's shared publicly so that more people can benefit from it.
 | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 🚨 **Bug Reports**       | <a href="https://github.com/khulnasoft/mlcluster/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3Abug+sort%3Areactions-%2B1-desc+" title="Open Bug Report"><img src="https://img.shields.io/github/issues/khulnasoft/mlcluster/bug.svg"></a>                                                                                   |
 | 🎁 **Feature Requests**  | <a href="https://github.com/khulnasoft/mlcluster/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc" title="Open Feature Request"><img src="https://img.shields.io/github/issues/khulnasoft/mlcluster/feature-request.svg?label=feature%20requests"></a>                                             |
-| 👩‍💻 **Usage Questions**   | <a href="https://stackoverflow.com/questions/tagged/khulnasoft" title="Open Question on Stackoverflow"><img src="https://img.shields.io/badge/stackoverflow-ml--tooling-orange.svg"></a> <a href="https://gitter.im/khulnasoft/mlcluster" title="Chat on Gitter"><img src="https://badges.gitter.im/khulnasoft/mlcluster.svg"></a> |
+| 👩‍💻 **Usage Questions**   | <a href="https://stackoverflow.com/questions/tagged/khulnasoft" title="Open Question on Stackoverflow"><img src="https://img.shields.io/badge/stackoverflow-khulnasoft-orange.svg"></a> <a href="https://gitter.im/khulnasoft/mlcluster" title="Chat on Gitter"><img src="https://badges.gitter.im/khulnasoft/mlcluster.svg"></a> |
 | 🗯 **General Discussion** | <a href="https://gitter.im/khulnasoft/mlcluster" title="Chat on Gitter"><img src="https://badges.gitter.im/khulnasoft/mlcluster.svg"></a> <a href="https://twitter.com/khulnasoft" title="KhulnaSoft on Twitter"><img src="https://img.shields.io/twitter/follow/khulnasoft.svg?style=social"></a>                                   |
 
 ---
